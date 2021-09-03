@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    padding: 0%;  
+    background-image: url('./imagenes/pexels-sagui-andrea-618833.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 850px;
+    background-size: cover;
+}
+
+.bienvenido{
+    color: rgb(254, 245, 182);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 100px;
+}
+
+.contenedor{
+    height: 550px;
+    width: 75%;
+    background-color: rgba(255, 255, 255, 0.74);
+    border-radius: 50px;
+
+}
+
+.contenedor p{
+    padding: 45px;
+    padding-bottom: 0%;
+    color: teal;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 0%;
+}
+
+.contenedor img{
+    padding: 40px;
+    height: 200px;
+    width: 250px;
+}
+
+.boton{
+    background-color: rgb(255, 255, 121);
+    width: 200px;
+    border: 0px;
+    border-radius: 50px;
+    height: 55px;
+    cursor: pointer;
+    outline: none;
+}
+
+.boton a{
+    margin-top: 5px;
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+    font-family: sans-serif;
+}
